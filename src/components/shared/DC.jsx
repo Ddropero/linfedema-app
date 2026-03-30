@@ -1,0 +1,2 @@
+import { D, F } from "../../styles/palette";
+export default function DC({ title: ti, children, accent: ac }) { return <div style={{ background: D.card, border: `1px solid ${D.bdr}`, borderRadius: 14, padding: 22, marginBottom: 18, borderLeft: ac ? `4px solid ${ac}` : undefined, backdropFilter: "blur(12px)" }}>{ti && <h3 style={{ margin: "0 0 14px", fontSize: 16, fontWeight: 700, color: "#e0f2fe", fontFamily: F.b }}>{ti}</h3>}{children}</div>; }

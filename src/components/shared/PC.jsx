@@ -1,0 +1,1 @@
+export default function PC({ children, style: st }) { return <div style={{ background: "#fff", border: "1px solid #e8e2d9", borderRadius: 16, padding: 28, marginBottom: 20, boxShadow: "0 2px 12px rgba(44,36,24,0.04)", ...st }}>{children}</div>; }

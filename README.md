@@ -1,5 +1,5 @@
 # Linfedema Integral v4.0
-## Clínica Reina Sofía — Clínicas Colsanitas
+## Dr. David Duque — Programa de Linfedema
 
 Protocolo de Manejo Integral del Linfedema con MRL y Ruta Conservador–Quirúrgica.
 
@@ -80,4 +80,4 @@ claude
 9. Devoogdt N, et al. Lymph-ICF. 2011
 
 ---
-Protocolo basado en evidencia · Clínica Reina Sofía · Colsanitas · v4.0
+Protocolo basado en evidencia · Dr. David Duque · v4.0

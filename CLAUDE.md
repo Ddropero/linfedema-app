@@ -1,7 +1,7 @@
 # CLAUDE.md — Contexto del Proyecto
 
 ## Qué es este proyecto
-Plataforma clínica de manejo integral del linfedema para la Clínica Reina Sofía (Colsanitas). Tiene dos portales:
+Plataforma clínica de manejo integral del linfedema — Dr. David Duque. Tiene dos portales:
 - **Portal Pacientes**: tema claro/cálido, lenguaje accesible, educación y autocuidado
 - **Portal Médicos**: tema oscuro/profesional, protocolo clínico completo con calculadoras
 

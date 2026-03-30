@@ -1,9 +1,12 @@
 {
-  "name": "linfedema-clinica-reina-sofia",
+  "name": "linfedema-david-duque",
   "version": "4.0.0",
-  "description": "Protocolo de Manejo Integral del Linfedema - Clínica Reina Sofía / Colsanitas. Portal dual: Pacientes y Médicos.",
+  "description": "Programa de Manejo Integral del Linfedema — Dr. David Duque. Portal dual: Pacientes y Médicos.",
   "private": true,
   "dependencies": {
+    "firebase": "^12.11.0",
+    "otplib": "^13.4.0",
+    "qrcode": "^1.5.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1"
@@ -15,7 +18,15 @@
     "eject": "react-scripts eject"
   },
   "browserslist": {
-    "production": [">0.2%", "not dead", "not op_mini all"],
-    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
